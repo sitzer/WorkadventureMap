@@ -112,7 +112,7 @@
                  "value":"https:\/\/pad.luki.org\/p\/WorkAdventure"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
                  "value":"https:\/\/luki.org\/verein-luki-e-v\/karte\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
                  "value":"https:\/\/kirche.social\/@luki\/embed"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -184,7 +184,7 @@
                  "value":"https:\/\/stream.studio-link.de\/b06868c36e"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
                  "value":"https:\/\/answergarden.ch\/embed\/1495894"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -292,7 +292,7 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -1115,7 +1115,7 @@
                  "id":136,
                  "properties":[
                         {
-                         "name":"collision",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
