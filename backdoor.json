@@ -265,7 +265,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/soundcloud.com\/stil-bense\/stil-bense-space-invaders-mixtape"
+                 "value":"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/307342085&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
                 }],
          "type":"tilelayer",
          "visible":true,
