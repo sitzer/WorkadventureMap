@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/etherpad.hiveeyes.org\/p\/backdoor"
+                 "value":"https:\/\/hackmd.io\/@koile\/r1ELyDZFw"
                 }],
          "type":"tilelayer",
          "visible":true,
