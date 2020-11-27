@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hackmd.io\/@koile\/r1ELyDZFw"
+                 "value":"https:\/\/demo.hedgedoc.org\/s\/86Uy5rbBb"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -81,12 +81,6 @@
          "id":19,
          "name":"exit",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"\/WorkadventureMap\/map.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
@@ -1459,6 +1453,26 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":180
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":179
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":178
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":164
+                        }],
+                 "id":180
                 }, 
                 {
                  "id":192,
