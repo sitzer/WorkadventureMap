@@ -443,7 +443,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openAudioStream",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/opengameart.org\/sites\/default\/files\/song18_0.mp3"
                 }],
