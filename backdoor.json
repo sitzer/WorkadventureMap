@@ -529,7 +529,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/open-web-calendar.herokuapp.com\/calendar.html?url=https%3A%2F%2Ffahrplan.events.ccc.de%2Fcongress%2F2019%2FFahrplan%2Fschedule.ics&amp;tab=week"
+                 "value":"https:\/\/fahrplan.events.ccc.de\/congress\/2019\/Fahrplan\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
